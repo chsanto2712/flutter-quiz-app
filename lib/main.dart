@@ -6,7 +6,7 @@ void main() {
   runApp(
     const MaterialApp(
       home: Scaffold(
-        body: Text('Data'),
+        body: Text('Hello World'),
       ),
     ),
   );
